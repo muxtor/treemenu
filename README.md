@@ -9,6 +9,7 @@ After cloning and install yii, run command "php yii migrate" for import BD.
         var_dump($cleaned);
 ```
  Results on page /site/pregreplace
+ 
 DIRECTORY STRUCTURE
 -------------------
 
